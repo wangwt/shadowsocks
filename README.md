@@ -3,7 +3,7 @@ shadowsocks的最新地址
 
 ## 最新地址：
 
-[https://portal.shadowsocks.center](https://portal.shadowsocks.center/aff.php?aff=24693)
+[https://portal.shadowsocks.at](https://portal.shadowsocks.at/aff.php?aff=24693)
 
 
 ## shadowsocks 的官网地址历史
@@ -18,3 +18,4 @@ shadowsocks的最新地址
 * 20190410 又换成了：https://portal.shadowsocks.ch
 * 20190710 又换成了：https://order.shadowsocks.se
 * 20191018 又换成了：https://portal.shadowsocks.center
+* 20191118 又换成了：https://portal.shadowsocks.at
