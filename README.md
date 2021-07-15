@@ -10,7 +10,7 @@ shadowsocks的最新地址
 
 * 最开始的网址是：https://www.shadowsocks.com
 * 可能是怕别人误解为shadowsocks的官网，所以换了地址：https://www.shadowsocks.la
-* 20180522 可能是防止被和谐，又换了地址：https://www.shadowsocks.to
+* 20180522 更换为：  https://www.shadowsocks.to
 * 同时支付的货币币种从美元改为了澳元
 * 后来又更换为现在的：https://portal.shadowsocks.nu
 * 20190205 又换成了：https://secure.portal.shadowsocks.ch
