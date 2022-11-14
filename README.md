@@ -5,11 +5,6 @@ shadowsocks的最新地址
 
 [https://portal.shadowsocks.au](https://portal.shadowsocks.au/aff.php?aff=24693)
 
-## 双十一优惠活动
-
-* 双十一活动：时间为 2022 年 11 月 10 日 0:00 后至 2022 年 11 月 13 日 23:59 分。
-* 折扣：新购买或续费 1 年服务享受 7 折优惠，2 年服务享受 65 折优惠，3 年服务享受 6 折优惠，优惠适用于 Lite 和 Pro 服务。
-
 ## shadowsocks 的官网地址历史
 
 * 最开始的网址是：https://www.shadowsocks.com
