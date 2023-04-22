@@ -5,6 +5,15 @@ shadowsocks的最新地址
 
 [https://portal.shadowsocks.au](https://portal.shadowsocks.au/aff.php?aff=24693)
 
+## 套餐列表
+
+||Lite|Pro|
+|----|----|----|
+|每月|-|$12.95 USD|
+|年付|$19.95 USD|$99.95 USD|
+|两年付|$35.95 USD|$179.95 USD|
+|三年付|$49.95 USD|$259.95 USD|
+
 ## shadowsocks 的官网地址历史
 
 * 最开始的网址是：https://www.shadowsocks.com
