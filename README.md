@@ -1,6 +1,6 @@
 # shadowsocks最新地址
 
-最新地址：[portal.shadowsocks.au](https://portal.shadowsocks.au/aff.php?aff=24693)
+最新地址：[portal.shadowsocks.au](https://portal.shadowsocks.au/aff.php?aff=68798)
 
 ## 套餐列表
 
