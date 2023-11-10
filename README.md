@@ -2,6 +2,12 @@
 
 最新地址：[portal.shadowsocks.au](https://portal.shadowsocks.au/aff.php?aff=68798)
 
+## shadowsocks优惠码
+
+[1] 双十一活动期间：2023 年 11 月 10 日 00:00 后至 2023 年 11 月 13 日 23:59 止。
+
+[2] 折扣详情：新购或续费1年服务享受7折优惠，2年服务享受65折，3年服务则享有6折优惠，适用于Lite和Pro服务。
+
 ## 套餐列表
 
 ||Lite|Pro|
