@@ -1,6 +1,6 @@
 # shadowsocks最新地址
 
-最新地址：[portal.shadowsocks.au](https://portal.shadowsocks.au/aff.php?aff=68798)
+最新地址：[portal.shadowsocks.au](https://secure.shadowsocks.au/aff.php?aff=68798)
 
 ## shadowsocks优惠码
 
